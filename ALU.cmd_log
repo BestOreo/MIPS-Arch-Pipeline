@@ -1,0 +1,5 @@
+sch2hdl -sympath E:/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog ALU_drc.vf -w E:/PYproject/ALU.sch 
+sch2hdl -sympath E:/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog ALU.vf -w E:/PYproject/ALU.sch 
+sch2verilog -intstyle ise -family kintex7 -tionly {} -tiext tfi -w E:/PYproject/ALU.sch ALU.tfi 
+sch2hdl -sympath E:/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog ALU_drc.vf -w E:/PYproject/ALU.sch 
+sch2hdl -sympath E:/ISEproject/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog ALU_drc.vf -w E:/ISEproject/PYproject/ALU.sch 

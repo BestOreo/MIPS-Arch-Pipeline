@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/PYproject/clk_div.v -lang verilog -prj PYproject -o clk_div.spl -module clk_div -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 clk_div.spl E:/PYproject/clk_div.sym 

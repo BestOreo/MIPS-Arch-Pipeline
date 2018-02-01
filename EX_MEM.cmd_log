@@ -1,0 +1,36 @@
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU1/EX_MEM.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/EX_MEM.v -lang verilog -prj PYproject -o EX_MEM.spl -module EX_MEM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 EX_MEM.spl C:/Users/Administrator/Desktop/SCPU1/EX_MEM.sym 

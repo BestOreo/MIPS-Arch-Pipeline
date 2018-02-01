@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Administrator/Desktop/SCPU/SCPU_SCPU_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="SCPU_SCPU_sch_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_16/o" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">o[31:0]</obj_property>
+      <obj_property name="ObjectShortName">o[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_16/I3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">I3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">I3[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_16/I2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">I2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">I2[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_16/I1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">I1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">I1[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_16/I0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">I0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">I0[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/ID_EX_rdataA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ID_EX_rdataA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_rdataA[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_16/s" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">s[1:0]</obj_property>
+      <obj_property name="ObjectShortName">s[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/PC_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_out[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/inst_in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inst_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inst_in[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/IF_ID_inst" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IF_ID_inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IF_ID_inst[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/ID_EX_inst" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ID_EX_inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ID_EX_inst[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/EM_inst" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">EM_inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">EM_inst[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/MEM_WB_inst" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">MEM_WB_inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_WB_inst[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/ALUB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUB[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/ALU_result" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALU_result[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_result[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_10/register[17]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[17,31:0]</obj_property>
+      <obj_property name="ObjectShortName">register[17,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_10/register[18]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[18,31:0]</obj_property>
+      <obj_property name="ObjectShortName">register[18,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_10/register[19]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[19,31:0]</obj_property>
+      <obj_property name="ObjectShortName">register[19,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SCPU_SCPU_sch_tb/UUT/XLXI_6/XLXI_10/register[20]" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">[20,31:0]</obj_property>
+      <obj_property name="ObjectShortName">register[20,31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

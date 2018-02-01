@@ -1,0 +1,12 @@
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/BranchZero.v -lang verilog -prj PYproject -o BranchZero.spl -module BranchZero -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 BranchZero.spl C:/Users/Administrator/Desktop/SCPU/BranchZero.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/BranchZero.v -lang verilog -prj PYproject -o BranchZero.spl -module BranchZero -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 BranchZero.spl C:/Users/Administrator/Desktop/SCPU/BranchZero.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/BranchZero.v -lang verilog -prj PYproject -o BranchZero.spl -module BranchZero -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 BranchZero.spl C:/Users/Administrator/Desktop/SCPU2/BranchZero.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/BranchZero.v -lang verilog -prj PYproject -o BranchZero.spl -module BranchZero -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 BranchZero.spl C:/Users/Administrator/Desktop/SCPU2/BranchZero.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/BranchZero.v -lang verilog -prj PYproject -o BranchZero.spl -module BranchZero -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 BranchZero.spl C:/Users/Administrator/Desktop/SCPU2/BranchZero.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/BranchZero.v -lang verilog -prj PYproject -o BranchZero.spl -module BranchZero -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 BranchZero.spl C:/Users/Administrator/Desktop/SCPU2/BranchZero.sym 

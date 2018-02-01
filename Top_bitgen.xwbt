@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\cszju\Desktop\SCPU\Top.ncd
+OUTFILE=C:\Users\cszju\Desktop\SCPU\Top.bit
+FAMILY=Kintex7
+PART=xc7k325t-2lffg676
+WORKINGDIR=C:\Users\cszju\Desktop\SCPU
+LICENSE=ISE
+USER_INFO=__0_0_0

@@ -1,0 +1,8 @@
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/IF_ID.v -lang verilog -prj PYproject -o IF_ID.spl -module IF_ID -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 IF_ID.spl C:/Users/Administrator/Desktop/SCPU/IF_ID.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/IF_ID.v -lang verilog -prj PYproject -o IF_ID.spl -module IF_ID -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 IF_ID.spl C:/Users/Administrator/Desktop/SCPU/IF_ID.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/IF_ID.v -lang verilog -prj PYproject -o IF_ID.spl -module IF_ID -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 IF_ID.spl C:/Users/Administrator/Desktop/SCPU1/IF_ID.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/IF_ID.v -lang verilog -prj PYproject -o IF_ID.spl -module IF_ID -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 IF_ID.spl C:/Users/Administrator/Desktop/SCPU1/IF_ID.sym 

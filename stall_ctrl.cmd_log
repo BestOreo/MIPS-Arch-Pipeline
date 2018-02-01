@@ -1,0 +1,24 @@
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU1/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.v -lang verilog -prj PYproject -o stall_ctrl.spl -module stall_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 stall_ctrl.spl C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.sym 

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/ISEproject/PYproject/sll32.v -lang verilog -prj PYproject -o sll32.spl -module sll32 -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 sll32.spl E:/ISEproject/PYproject/sll32.sym 

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/PYproject/ADC32.v -lang verilog -prj PYproject -o ADC32.spl -module ADC32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 ADC32.spl E:/PYproject/ADC32.sym 

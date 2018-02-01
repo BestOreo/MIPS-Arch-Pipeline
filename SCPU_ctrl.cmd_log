@@ -1,0 +1,8 @@
+vhdtdtfi -lib work E:/ISEproject/PYproject/SCPU_ctrl.v -lang verilog -prj PYproject -o SCPU_ctrl.spl -module SCPU_ctrl -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 SCPU_ctrl.spl E:/ISEproject/PYproject/SCPU_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/SCPU_ctrl.v -lang verilog -prj PYproject -o SCPU_ctrl.spl -module SCPU_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 SCPU_ctrl.spl C:/Users/Administrator/Desktop/SCPU/SCPU_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/SCPU_ctrl.v -lang verilog -prj PYproject -o SCPU_ctrl.spl -module SCPU_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 SCPU_ctrl.spl C:/Users/Administrator/Desktop/SCPU/SCPU_ctrl.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/SCPU_ctrl.v -lang verilog -prj PYproject -o SCPU_ctrl.spl -module SCPU_ctrl -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 SCPU_ctrl.spl C:/Users/Administrator/Desktop/SCPU2/SCPU_ctrl.sym 

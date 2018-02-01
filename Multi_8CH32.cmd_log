@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/PYproject/Multi_8CH32.v -lang verilog -prj PYproject -o Multi_8CH32.spl -module Multi_8CH32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Multi_8CH32.spl E:/PYproject/Multi_8CH32.sym 

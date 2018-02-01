@@ -1,0 +1,4 @@
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/Top.v -lang verilog -prj PYproject -o Top.spl -module Top -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Top.spl C:/Users/Administrator/Desktop/SCPU1/Top.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/Top.v -lang verilog -prj PYproject -o Top.spl -module Top -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Top.spl C:/Users/Administrator/Desktop/SCPU2/Top.sym 

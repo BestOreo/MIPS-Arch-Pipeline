@@ -1,0 +1,10 @@
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/ID_EX.v -lang verilog -prj PYproject -o ID_EX.spl -module ID_EX -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 ID_EX.spl C:/Users/Administrator/Desktop/SCPU/ID_EX.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/ID_EX.v -lang verilog -prj PYproject -o ID_EX.spl -module ID_EX -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 ID_EX.spl C:/Users/Administrator/Desktop/SCPU/ID_EX.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU/ID_EX.v -lang verilog -prj PYproject -o ID_EX.spl -module ID_EX -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 ID_EX.spl C:/Users/Administrator/Desktop/SCPU/ID_EX.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/ID_EX.v -lang verilog -prj PYproject -o ID_EX.spl -module ID_EX -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 ID_EX.spl C:/Users/Administrator/Desktop/SCPU1/ID_EX.sym 
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU1/ID_EX.v -lang verilog -prj PYproject -o ID_EX.spl -module ID_EX -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 ID_EX.spl C:/Users/Administrator/Desktop/SCPU1/ID_EX.sym 

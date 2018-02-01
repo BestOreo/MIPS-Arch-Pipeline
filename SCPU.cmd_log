@@ -1,0 +1,5 @@
+sch2hdl -sympath E:/ISEproject/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog SCPU_drc.vf -w E:/ISEproject/PYproject/SCPU.sch 
+sch2hdl -sympath E:/ISEproject/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog SCPU_drc.vf -w E:/ISEproject/PYproject/SCPU.sch 
+sch2hdl -sympath E:/ISEproject/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog SCPU_drc.vf -w E:/ISEproject/PYproject/SCPU.sch 
+sch2hdl -sympath E:/ISEproject/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog SCPU_drc.vf -w E:/ISEproject/PYproject/SCPU.sch 
+sch2sym -intstyle ise -family kintex7 -refsym SCPU C:/Users/Administrator/Desktop/SCPU/SCPU.sch C:/Users/Administrator/Desktop/SCPU/SCPU.sym 

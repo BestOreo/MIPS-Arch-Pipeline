@@ -1,0 +1,22 @@
+[Inputs]
+clk200P
+clk200N
+RSTN
+=K_COL[3:0]=
+=SW[15:0]=
+[Outputs]
+Buzzer
+LEDCLK
+LEDDT
+LEDEN
+SEGCLK
+SEGDT
+SEGEN
+=AN[3:0]=
+=K_ROW[4:0]=
+=LED[7:0]=
+=SEGMENT[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Top
+

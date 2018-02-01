@@ -1,0 +1,3 @@
+sch2hdl,-sympath,C:/Users/Administrator/Desktop/SCPU2/ipcore_dir,-intstyle,ise,-family,kintex7,-verilog,C:/Users/Administrator/Desktop/SCPU2/ALU.vf,-w,C:/Users/Administrator/Desktop/SCPU2/ALU.sch
+sch2hdl,-sympath,C:/Users/Administrator/Desktop/SCPU2/ipcore_dir,-intstyle,ise,-family,kintex7,-verilog,C:/Users/Administrator/Desktop/SCPU2/SCPU.vf,-w,C:/Users/Administrator/Desktop/SCPU2/SCPU.sch
+sch2hdl,-sympath,C:/Users/Administrator/Desktop/SCPU2/ipcore_dir,-intstyle,ise,-family,kintex7,-verilog,C:/Users/Administrator/Desktop/SCPU2/Data_path.vf,-w,C:/Users/Administrator/Desktop/SCPU2/Data_path.sch

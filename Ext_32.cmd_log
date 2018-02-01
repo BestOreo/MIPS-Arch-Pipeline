@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/ISEproject/PYproject/Ext_32.v -lang verilog -prj PYproject -o Ext_32.spl -module Ext_32 -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Ext_32.spl E:/ISEproject/PYproject/Ext_32.sym 

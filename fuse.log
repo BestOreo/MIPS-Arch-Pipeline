@@ -1,0 +1,35 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/Administrator/Desktop/SCPU2/SCPU_SCPU_sch_tb_isim_beh.exe -prj C:/Users/Administrator/Desktop/SCPU2/SCPU_SCPU_sch_tb_beh.prj work.SCPU_SCPU_sch_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+WARNING:Simulator:1010 - One or more environment variables have been detected which affect the operation of the C compiler. These are typically not set in standard installations and are not tested by Xilinx, however they may be appropriate for your system, so the flow will attempt to continue.  If errors occur, try running fuse with the "-mt off -v 1" switches to see more information from the C compiler. The following environment variables have been detected:
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/xor32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/srl32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/sltu32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/or_bit_32 .v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/or32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/nor32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/MUX8T1_32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/and32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/ADC32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/stall_ctrl.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/regs.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/REG32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/rdata_sel.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/MUX4T1_32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/MUX2T1_5.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/MUX2T1_32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/MEM_WB.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/IF_ID.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/ID_EX.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/EX_MEM.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/Ext_32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/BranchZero.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/ALU.vf" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/add_32.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/SCPU_ctrl.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/Data_path.vf" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/SCPU.vf" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/SCPU2/pipetest.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work

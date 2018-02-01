@@ -1,0 +1,17 @@
+sch2hdl -sympath E:/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog Data_path_drc.vf -w E:/PYproject/Data_path.sch 
+sch2hdl -sympath E:/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog Data_path_drc.vf -w E:/PYproject/Data_path.sch 
+sch2hdl -sympath E:/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog Data_path_drc.vf -w E:/PYproject/Data_path.sch 
+sch2hdl -sympath E:/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog Data_path_drc.vf -w E:/PYproject/Data_path.sch 
+sch2hdl -sympath E:/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog Data_path_drc.vf -w E:/PYproject/Data_path.sch 
+sch2hdl -sympath E:/ISEproject/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog Data_path_drc.vf -w E:/ISEproject/PYproject/Data_path.sch 
+sch2hdl -sympath E:/ISEproject/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog Data_path_drc.vf -w E:/ISEproject/PYproject/Data_path.sch 
+sch2sym -intstyle ise -family kintex7 -refsym Data_path E:/ISEproject/PYproject/Data_path.sch E:/ISEproject/PYproject/Data_path.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Data_path E:/ISEproject/PYproject/Data_path.sch E:/ISEproject/PYproject/Data_path.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Data_path E:/ISEproject/PYproject/Data_path.sch E:/ISEproject/PYproject/Data_path.sym 
+sch2hdl -sympath E:/ISEproject/PYproject/ipcore_dir -intstyle ise -family kintex7 -verilog Data_path_drc.vf -w E:/ISEproject/PYproject/Data_path.sch 
+sch2sym -intstyle ise -family kintex7 -refsym Data_path C:/Users/Administrator/Desktop/SCPU/Data_path.sch C:/Users/Administrator/Desktop/SCPU/Data_path.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Data_path C:/Users/Administrator/Desktop/SCPU/Data_path.sch C:/Users/Administrator/Desktop/SCPU/Data_path.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Data_path C:/Users/Administrator/Desktop/SCPU/Data_path.sch C:/Users/Administrator/Desktop/SCPU/Data_path.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Data_path C:/Users/Administrator/Desktop/SCPU/Data_path.sch C:/Users/Administrator/Desktop/SCPU/Data_path.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Data_path C:/Users/Administrator/Desktop/SCPU/Data_path.sch C:/Users/Administrator/Desktop/SCPU/Data_path.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Data_path C:/Users/Administrator/Desktop/SCPU/Data_path.sch C:/Users/Administrator/Desktop/SCPU/Data_path.sym 

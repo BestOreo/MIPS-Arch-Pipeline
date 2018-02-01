@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/Administrator/Desktop/SCPU2/rdata_sel.v -lang verilog -prj PYproject -o rdata_sel.spl -module rdata_sel -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 rdata_sel.spl C:/Users/Administrator/Desktop/SCPU2/rdata_sel.sym 
